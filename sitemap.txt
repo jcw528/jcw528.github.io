@@ -1,11 +1,12 @@
-http://example.com/secret/index.html
 http://example.com/about/index.html
-http://example.com/links/index.html
-http://example.com/2024/08/07/note/
 http://example.com/2024/08/07/studynote/
+http://example.com/2024/08/07/note/
+http://example.com/secret/index.html
+http://example.com/links/index.html
 http://example.com/2024/08/06/myfirstblog/
 http://example.com/2024/08/06/hello-world/
 http://example.com/
 http://example.com/tags/python/
+http://example.com/tags/code/
 http://example.com/tags/%E6%B0%94%E8%B1%A1/
 http://example.com/categories/study/
