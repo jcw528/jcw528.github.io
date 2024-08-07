@@ -1,7 +1,7 @@
+http://example.com/secret/index.html
 http://example.com/about/index.html
 http://example.com/2024/08/07/studynote/
 http://example.com/2024/08/07/note/
-http://example.com/secret/index.html
 http://example.com/links/index.html
 http://example.com/2024/08/06/myfirstblog/
 http://example.com/2024/08/06/hello-world/
