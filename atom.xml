@@ -18,8 +18,8 @@
   
   <entry>
     <title>Note</title>
-    <link href="http://example.com/posts/1002/"/>
-    <id>http://example.com/posts/1002/</id>
+    <link href="http://example.com/posts/7872"/>
+    <id>http://example.com/posts/7872</id>
     <published>2024-08-07T04:37:15.000Z</published>
     <updated>2024-08-08T08:04:00.219Z</updated>
     
@@ -41,8 +41,8 @@
   
   <entry>
     <title>StudyNote</title>
-    <link href="http://example.com/posts/1003/"/>
-    <id>http://example.com/posts/1003/</id>
+    <link href="http://example.com/posts/5023"/>
+    <id>http://example.com/posts/5023</id>
     <published>2024-08-07T04:37:15.000Z</published>
     <updated>2024-08-08T08:03:09.730Z</updated>
     
@@ -62,8 +62,8 @@
   
   <entry>
     <title>第一篇博客</title>
-    <link href="http://example.com/posts/1002/"/>
-    <id>http://example.com/posts/1002/</id>
+    <link href="http://example.com/posts/59448"/>
+    <id>http://example.com/posts/59448</id>
     <published>2024-08-06T12:37:15.000Z</published>
     <updated>2024-08-07T02:23:49.543Z</updated>
     
@@ -85,8 +85,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/1001/"/>
-    <id>http://example.com/posts/1001/</id>
+    <link href="http://example.com/posts/16107"/>
+    <id>http://example.com/posts/16107</id>
     <published>2024-08-06T12:08:38.181Z</published>
     <updated>2024-08-06T13:04:12.756Z</updated>
     

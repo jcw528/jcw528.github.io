@@ -1,10 +1,10 @@
-http://example.com/posts/1002/
-http://example.com/posts/1003/
+http://example.com/posts/7872
+http://example.com/posts/5023
 http://example.com/links/index.html
 http://example.com/secret/index.html
 http://example.com/about/index.html
-http://example.com/posts/1002/
-http://example.com/posts/1001/
+http://example.com/posts/59448
+http://example.com/posts/16107
 http://example.com/
 http://example.com/tags/python/
 http://example.com/tags/code/
