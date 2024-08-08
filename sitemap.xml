@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>http://example.com/posts/1003/</loc>
+    
+    <lastmod>2024-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/links/index.html</loc>
     
     <lastmod>2024-08-08</lastmod>
@@ -30,15 +39,6 @@
   
   <url>
     <loc>http://example.com/about/index.html</loc>
-    
-    <lastmod>2024-08-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/posts/1003/</loc>
     
     <lastmod>2024-08-07</lastmod>
     
