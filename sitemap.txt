@@ -6,7 +6,7 @@ http://example.com/secret/index.html
 http://example.com/posts/59448
 http://example.com/about/index.html
 http://example.com/
+http://example.com/tags/%E6%B0%94%E8%B1%A1/
 http://example.com/tags/python/
 http://example.com/tags/code/
-http://example.com/tags/%E6%B0%94%E8%B1%A1/
 http://example.com/categories/study/
